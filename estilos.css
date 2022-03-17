@@ -56,8 +56,8 @@ label input:checked ~ span ion-icon
 {
     position: absolute;
     top: 80px;
-    left: 20%;
-    transform: translateX(-50%);
+    left: 5%;
+    transform: translateX(-20%);
     width: 260px;
     height: 360px;
     pointer-events: none;
