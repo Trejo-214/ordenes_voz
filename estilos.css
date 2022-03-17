@@ -58,8 +58,8 @@ label input:checked ~ span ion-icon
     top: 88px;
     left: 50%;
     transform: translateX(-50%);
-    width: 348px;
-    height: 408px;
+    width: 260px;
+    height: 360px;
     pointer-events: none;
     background: url(bulb_off.jpg);
     transition: 0.5s;
